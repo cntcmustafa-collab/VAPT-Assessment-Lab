@@ -1,0 +1,7 @@
+Kali Linux
+Nmap
+Nikto
+Metasploit Framework
+OpenVAS
+CVSS Calculator
+VirtualBox
